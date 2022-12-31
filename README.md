@@ -1,5 +1,7 @@
 # Foreign Direct Investment Case study
 
+!
+
 [Dataset](https://www.kaggle.com/datasets/rajanand/fdi-in-india)
 
 In this case study, we will explore the FDI Dataset and analyze it from the perspective of a business. We shall look at various sectors to determine which sector will prove most beneficial to collaborate with, for the company.
