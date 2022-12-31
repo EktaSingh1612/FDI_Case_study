@@ -1,6 +1,6 @@
 # Foreign Direct Investment Case study
 
-!
+![image](2.jpg)
 
 [Dataset](https://www.kaggle.com/datasets/rajanand/fdi-in-india)
 
